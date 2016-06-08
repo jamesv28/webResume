@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+
+html, body {
+    font-family: 'Raleway', sans-serif;
+    font-weight:400;
+}
+.purple {
+    color: #9932CC;
+}
+strong {
+    font-weight: 700;
+}
+
+h3 {
+    margin-top:0;
+}
+
+.timeline {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.right {
+    border-left:1px solid black;
+}
+
+.descriptions {
+    list-style-type: none;
+    clear: both;
+    padding-left: 10px;
+}
